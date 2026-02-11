@@ -1,8 +1,8 @@
-# 🌐 Impacta Projetos
+# 🌐 Iniciativa Impacta
 
 > **Inovação, prática e tecnologia transformando o aprendizado.**
 
-A **Impacta Projetos** é uma iniciativa criada e mantida por alunos do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Nosso objetivo é centralizar a hospedagem de projetos, pesquisas e ideias concebidas durante a trajetória acadêmica na Faculdade Impacta.
+A **Iniciativa Impacta** é uma iniciativa criada e mantida por alunos do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Nosso objetivo é centralizar a hospedagem de projetos, pesquisas e ideias concebidas durante a trajetória acadêmica na Faculdade Impacta.
 
 ---
 
